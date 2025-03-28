@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Civ VII Music
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+This mod adds the Civ themes from Civ VII and pus them into UnCiv. Recommended to play with the 'Civ VII Nations' mod.
